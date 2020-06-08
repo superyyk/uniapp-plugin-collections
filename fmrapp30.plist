@@ -11,10 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>
-\f1\fs28 \expnd0\expndtw0\kerning0
-http://121.40.157.182/fmr/public/new_app/136.ipa
-\f0\fs24 \kerning1\expnd0\expndtw0 </string>
+<string>http://121.40.157.182/fmr/public/new_app/136.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -22,10 +19,7 @@ http://121.40.157.182/fmr/public/new_app/136.ipa
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>
-\f1\fs28 \expnd0\expndtw0\kerning0
-http://121.40.157.182/fmr/public/new_app/512.png
-\f0\fs24 \kerning1\expnd0\expndtw0 </string>
+<string>http://121.40.157.182/fmr/public/new_app/512.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,28 +27,20 @@ http://121.40.157.182/fmr/public/new_app/512.png
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>
-\f1\fs28 \expnd0\expndtw0\kerning0
-http://121.40.157.182/fmr/public/new_app/57.png
-\f0\fs24 \kerning1\expnd0\expndtw0 </string>
+<string>http://121.40.157.182/fmr/public/new_app/57.png</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
+<string>菲米尔科技</string>
 <string>
-\f2 \'b7\'c6\'c3\'d7\'b6\'fb\'bf\'c6\'bc\'bc
-\f0 </string>
 <key>bundle-version</key>
-<string>1.0
-\f2 .36
-\f0 </string>
+<string>1.0.36</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>
-\f2 \'b7\'c6\'c3\'d7\'b6\'fb\'bf\'c6\'bc\'bc
-\f0 </string>
+<string>菲米尔科技</string>
 <key>title</key>
 <string>Test</string>
 </dict>
